@@ -11,10 +11,6 @@
 - Version 17.10.5
 
 ## Dependencies
-### WriteEnableForStacks
-- https://github.com/OpenFSD/WriteEnableForStacks
 
-### WriteEnableForStacks
-- https://github.com/OpenFSD/WaitLaunchConcurrentThread
 
 ## Development History
