@@ -1,8 +1,4 @@
-# Server Dynamic Link Library .Net
-Concurrent Core Handler for a Host Server TEMPLATE, with a user implemented design.
-
-## Server, Buffer and Networking For Full Stack Development
-- Architecture.PNG => https://drive.google.com/file/d/1AzNi2YrukRCVLelxfj8uvzhFDI4ytWBs/view?usp=sharing
+# Dynamic Link Library TestBench(s)
 
 ### C# .NET Console
 
